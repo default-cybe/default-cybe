@@ -26,25 +26,25 @@
 ---
 
 ## 🔐 What I Work On
-- Integrating security automation into CI/CD with Terraform, Docker, Kubernetes, and cloud native services  
-- Hardening AWS environments with IAM, WAF, GuardDuty, Config, and secure networking patterns  
-- Writing and tuning IDS rules, vulnerability scans, and security monitoring pipelines  
-- Building security tools for reconnaissance, secure collaboration, and experimental authentication models  
+- Baking security automation into CI/CD pipelines with Terraform, Docker, Kubernetes and cloud native tooling  
+- Locking down AWS with IAM, WAF, GuardDuty, Config and sensible network design  
+- Writing and tuning IDS rules, running vulnerability scans, and wiring up security monitoring  
+- Building small security tools, mostly around recon, secure collaboration and authentication experiments  
 
 ---
 
 ## 🚀 Featured Security Projects
 - **IP Logger with Email Tracker**  
-  Reconnaissance and tracking tool that collects IP, geolocation, user agent and uses a tracking pixel to monitor email opens in a controlled lab setup.
+  A recon tool that grabs IP, geolocation and user agent details, plus a tracking pixel to tell when an email actually gets opened. Built and tested in a controlled lab.
 
 - **MiraTech: Smart Mirror**  
-  Smart lifestyle mirror with biometric authentication and role based access control to protect sensitive personal information.
+  A smart mirror for everyday use, with biometric login and role based access so the personal stuff behind it stays private.
 
 - **Code Share**  
-  VS Code extension focused on secure code sharing and collaboration that reduces leakage risk when sharing snippets.
+  A VS Code extension for sharing code snippets more safely, cutting down the odds of leaking something you didn't mean to.
 
 - **Passwordless Auth Prototype**  
-  Multi factor passwordless authentication flow using device fingerprinting and WebRTC concepts to resist session hijacking and replay attacks in a simulated environment.
+  An experiment in passwordless, multi factor login. It leans on device fingerprinting and some WebRTC ideas to hold up against session hijacking and replay attacks, all in a simulated setup.
 
 ---
 
