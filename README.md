@@ -7,7 +7,6 @@
 - 🌱 Learning more about cloud security, network forensics, and incident response  
 - 👯 Open to collaborating on security tooling, capture the flag style labs, and cloud security projects  
 - 💬 Ask me about application security, DevSecOps, AWS, Docker, Kubernetes, Terraform, Python, Go, Django, React  
-- 📆 Internship availability: Summer 2026 (Security Engineer, AppSec, DevSecOps, or SOC focused roles)  
 - ⚡ Fun fact: The first published computer algorithm was written by Ada Lovelace in the 1800s for a machine that did not even exist yet
 
 ## 🌐 Socials
